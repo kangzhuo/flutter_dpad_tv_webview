@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  webview_flutter: ^0.3.13
+  webview_flutter: ^2.0.10
 
 dev_dependencies:
   flutter_test:
